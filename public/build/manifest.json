@@ -1,0 +1,19 @@
+{
+  "resources/images/cegem360-logo-dark.png": {
+    "file": "assets/cegem360-logo-dark-B1qYFum4.png",
+    "src": "resources/images/cegem360-logo-dark.png"
+  },
+  "resources/images/cegem360-logo-light.png": {
+    "file": "assets/cegem360-logo-light-BdDtjedL.png",
+    "src": "resources/images/cegem360-logo-light.png"
+  },
+  "resources/js/app.tsx": {
+    "file": "assets/app-CLCcg9Ao.js",
+    "name": "app",
+    "src": "resources/js/app.tsx",
+    "isEntry": true,
+    "css": [
+      "assets/app-Yu1Qy9r_.css"
+    ]
+  }
+}
