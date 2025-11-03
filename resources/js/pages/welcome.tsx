@@ -23,7 +23,7 @@ export default function Welcome() {
             image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop',
         },
         {
-            title: 'CRM & Kapcsolatok',
+            title: 'Értékesítési és ügyfélkapcsolati rendszer',
             description: 'Ügyfélkapcsolat-kezelési rendszer. Kezeld hatékonyan az ügyfelekkel és partnerekkel való kapcsolatokat, követesd a kommunikációt.',
             url: 'http://crm-and-contacts.cegem360.eu/',
             image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop',
