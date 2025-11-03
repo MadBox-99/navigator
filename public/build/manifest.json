@@ -4,8 +4,16 @@
     "src": "resources/images/cegem360-logo-dark.png"
   },
   "resources/images/cegem360-logo-light.png": {
-    "file": "assets/cegem360-logo-light-BdDtjedL.png",
+    "file": "assets/logo-BdDtjedL.png",
     "src": "resources/images/cegem360-logo-light.png"
+  },
+  "resources/images/logo.png": {
+    "file": "assets/logo-BdDtjedL.png",
+    "src": "resources/images/cegem360-logo-light.png"
+  },
+  "resources/images/logo.svg": {
+    "file": "assets/logo-DanLznZQ.svg",
+    "src": "resources/images/logo.svg"
   },
   "resources/js/app.tsx": {
     "file": "assets/app-CPCvb11V.js",
